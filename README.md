@@ -1,4 +1,4 @@
-# Vitis-fatal-error-xparameters.h-No-such-file-or-directory
+# 请打开本文件阅读，在文件外阅读效果不佳
 此报错的原因为官方软件BUG
 解决方法：
 1.IP核封装完成后，在IP核所在路径下（X:\XX\你自己项目的文件夹\ip_repo\你的IP核的名字\drivers\你的IP核的名字\src），找到Makefile文件。
